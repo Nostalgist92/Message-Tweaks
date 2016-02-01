@@ -1,0 +1,8 @@
+## Interface: 60200
+## Version: 1.05
+## Title: MessageTweaks
+## Notes: Tweaks some UI messages to make them look a bit cleaner.
+## Author: Nostalgist92 (Kiritoh @ AU-Caelestrasz)
+## DefaultState: enabled
+
+GlobalStrings.lua
