@@ -1,6 +1,6 @@
 ## Interface: 60200
-## Version: 1.05
-## Title: MessageTweaks
+## Version: 1.06
+## Title: Message Tweaks
 ## Notes: Tweaks some UI messages to make them look a bit cleaner.
 ## Author: Nostalgist92 (Kiritoh @ AU-Caelestrasz)
 ## DefaultState: enabled
